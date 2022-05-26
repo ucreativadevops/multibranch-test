@@ -1,1 +1,1 @@
-print('Hola Mundo desde el evento de tipo push al main')
+print('Branch Protection to main branch')
